@@ -1,0 +1,7 @@
+C:\Users\jose.ehmendes\OneDrive - SENAC - SP\Documentos\Visual Studio 2022\maratonadeexercicios\ex11\bin\Debug\ex11.exe.config
+C:\Users\jose.ehmendes\OneDrive - SENAC - SP\Documentos\Visual Studio 2022\maratonadeexercicios\ex11\bin\Debug\ex11.exe
+C:\Users\jose.ehmendes\OneDrive - SENAC - SP\Documentos\Visual Studio 2022\maratonadeexercicios\ex11\bin\Debug\ex11.pdb
+C:\Users\jose.ehmendes\OneDrive - SENAC - SP\Documentos\Visual Studio 2022\maratonadeexercicios\ex11\obj\Debug\ex11.csproj.AssemblyReference.cache
+C:\Users\jose.ehmendes\OneDrive - SENAC - SP\Documentos\Visual Studio 2022\maratonadeexercicios\ex11\obj\Debug\ex11.csproj.CoreCompileInputs.cache
+C:\Users\jose.ehmendes\OneDrive - SENAC - SP\Documentos\Visual Studio 2022\maratonadeexercicios\ex11\obj\Debug\ex11.exe
+C:\Users\jose.ehmendes\OneDrive - SENAC - SP\Documentos\Visual Studio 2022\maratonadeexercicios\ex11\obj\Debug\ex11.pdb

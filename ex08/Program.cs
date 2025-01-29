@@ -30,7 +30,7 @@ namespace ex08
                     break;
 
                 case 2:
-               
+
                     Console.WriteLine("Segunda-feira");
                     break;
 
@@ -63,9 +63,7 @@ namespace ex08
             }
 
             Console.ReadLine();
-
-
-
         }
     }
 }
+﻿
