@@ -10,13 +10,11 @@ namespace ex02
     {
         static void Main(string[] args)
         {
-            string nome = "José Elias";
-            const int numeroMaximo = 100;
-
             Console.WriteLine("2-) Declare uma variável do tipo string chamada nome e uma constante do tipo int chamada numeroMaximo com o valor 100.");
-
+            string nome = "José Elias";
+            const int numeromaximo = 100;
             Console.WriteLine($"Nome: {nome}");
-            Console.WriteLine($"Número maximo constante (não pode ser alterado):): {nome}");
+            Console.WriteLine($"Número maximo constante (não pode ser alterado):): {numeromaximo}");
             Console.ReadLine();
         }
     }

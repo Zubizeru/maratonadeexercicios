@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\jose.ehmendes\\OneDrive - SENAC - SP\\Documentos\\Visual Studio 2022\\maratonadeexercicios\\ex01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FD8DC4A-EAEC-442C-AD3E-BF5A46ADD6AB}|..\\ex02\\ex02.csproj|c:\\users\\jose.ehmendes\\onedrive - senac - sp\\documentos\\visual studio 2022\\maratonadeexercicios\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF28EAB-58C8-45BA-A12E-4E67807356D8}|ex01.csproj|c:\\users\\jose.ehmendes\\onedrive - senac - sp\\documentos\\visual studio 2022\\maratonadeexercicios\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF28EAB-58C8-45BA-A12E-4E67807356D8}|ex01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B90860AC-ED0B-4B79-A4B6-FF3AD104DE0C}|..\\ex16\\ex16.csproj|c:\\users\\jose.ehmendes\\onedrive - senac - sp\\documentos\\visual studio 2022\\maratonadeexercicios\\ex16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jose.ehmendes\\OneDrive - SENAC - SP\\Documentos\\Visual Studio 2022\\maratonadeexercicios\\ex01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jose.ehmendes\\OneDrive - SENAC - SP\\Documentos\\Visual Studio 2022\\maratonadeexercicios\\ex01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:23:52.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jose.ehmendes\\OneDrive - SENAC - SP\\Documentos\\Visual Studio 2022\\maratonadeexercicios\\ex02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex02\\Program.cs",
+              "ToolTip": "C:\\Users\\jose.ehmendes\\OneDrive - SENAC - SP\\Documentos\\Visual Studio 2022\\maratonadeexercicios\\ex02\\Program.cs",
+              "RelativeToolTip": "..\\ex02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:23:04.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jose.ehmendes\\OneDrive - SENAC - SP\\Documentos\\Visual Studio 2022\\maratonadeexercicios\\ex16\\Program.cs",
               "RelativeDocumentMoniker": "..\\ex16\\Program.cs",
@@ -48,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jose.ehmendes\\OneDrive - SENAC - SP\\Documentos\\Visual Studio 2022\\maratonadeexercicios\\ex15\\Program.cs",
               "RelativeDocumentMoniker": "..\\ex15\\Program.cs",
@@ -56,12 +89,11 @@
               "RelativeToolTip": "..\\ex15\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:09:45.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:09:45.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jose.ehmendes\\OneDrive - SENAC - SP\\Documentos\\Visual Studio 2022\\maratonadeexercicios\\ex14\\Program.cs",
               "RelativeDocumentMoniker": "..\\ex14\\Program.cs",
@@ -69,12 +101,11 @@
               "RelativeToolTip": "..\\ex14\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:07:01.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:07:01.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jose.ehmendes\\OneDrive - SENAC - SP\\Documentos\\Visual Studio 2022\\maratonadeexercicios\\ex13\\Program.cs",
               "RelativeDocumentMoniker": "..\\ex13\\Program.cs",
@@ -82,12 +113,11 @@
               "RelativeToolTip": "..\\ex13\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:05:50.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:05:50.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jose.ehmendes\\OneDrive - SENAC - SP\\Documentos\\Visual Studio 2022\\maratonadeexercicios\\ex12\\Program.cs",
               "RelativeDocumentMoniker": "..\\ex12\\Program.cs",
@@ -95,12 +125,11 @@
               "RelativeToolTip": "..\\ex12\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:04:54.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:04:54.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jose.ehmendes\\OneDrive - SENAC - SP\\Documentos\\Visual Studio 2022\\maratonadeexercicios\\ex11\\Program.cs",
               "RelativeDocumentMoniker": "..\\ex11\\Program.cs",
@@ -108,12 +137,11 @@
               "RelativeToolTip": "..\\ex11\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:04:01.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:04:01.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jose.ehmendes\\OneDrive - SENAC - SP\\Documentos\\Visual Studio 2022\\maratonadeexercicios\\ex10\\Program.cs",
               "RelativeDocumentMoniker": "..\\ex10\\Program.cs",
@@ -121,8 +149,7 @@
               "RelativeToolTip": "..\\ex10\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:03:08.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:03:08.019Z"
             }
           ]
         }
