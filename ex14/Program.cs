@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ex14
 {
@@ -25,53 +21,42 @@ namespace ex14
             Console.Write("Digite o número da operação desejada: ");
             int operacao = int.Parse(Console.ReadLine());
 
-           
             double resultado = 0;
+
+            Console.Write("Digite o primeiro número: ");
+            double num1 = double.Parse(Console.ReadLine());
+
+            Console.Write("Digite o segundo número: ");
+            double num2 = double.Parse(Console.ReadLine());
+
+            do
+            {
+                if (operacao == 4 && num2 == 0)
+                {
+                    Console.WriteLine("Erro: Não é possível dividir por zero. Digite um número diferente de zero.");
+                    Console.Write("Digite o segundo número: ");
+                    num2 = double.Parse(Console.ReadLine());
+                }
+            } while (operacao == 4 && num2 == 0);
 
             switch (operacao)
             {
                 case 1:
-                    Console.Write("Digite o primeiro número: ");
-                    double num1 = double.Parse(Console.ReadLine());
-
-                    Console.Write("Digite o segundo número: ");
-                    double num2 = double.Parse(Console.ReadLine());
                     resultado = num1 + num2;
                     Console.WriteLine($"Resultado da soma: {resultado}");
                     break;
                 case 2:
-                    Console.Write("Digite o primeiro número: ");
-                    num1 = double.Parse(Console.ReadLine());
-
-                    Console.Write("Digite o segundo número: ");
-                    num2 = double.Parse(Console.ReadLine());
                     resultado = num1 - num2;
                     Console.WriteLine($"Resultado da subtração: {resultado}");
                     break;
                 case 3:
-                    Console.Write("Digite o primeiro número: ");
-                    num1 = double.Parse(Console.ReadLine());
-
-                    Console.Write("Digite o segundo número: ");
-                    num2 = double.Parse(Console.ReadLine());
                     resultado = num1 * num2;
                     Console.WriteLine($"Resultado da multiplicação: {resultado}");
                     break;
                 case 4:
-                    Console.Write("Digite o primeiro número: ");
-                    num1 = double.Parse(Console.ReadLine());
+                    resultado = num1 / num2;
+                    Console.WriteLine($"Resultado da divisão: {resultado}");
 
-                    Console.Write("Digite o segundo número: ");
-                    num2 = double.Parse(Console.ReadLine());
-                    if (num2 == 0)
-                    {
-                        Console.WriteLine("Erro: Não é possível dividir por zero. Digite um número diferente de zero.");
-                    }
-                    else
-                    {
-                        resultado = num1 / num2;
-                        Console.WriteLine($"Resultado da divisão: {resultado}");
-                    }
                     break;
                 default:
                     Console.WriteLine("Operação inválida.");
@@ -81,3 +66,4 @@ namespace ex14
         }
     }
 }
+
